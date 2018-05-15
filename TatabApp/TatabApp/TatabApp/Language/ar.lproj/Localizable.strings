@@ -240,4 +240,63 @@
 "Family_and_Community_Clinic" = "عيادة طب الاسرة والمجتمع";
 "Obgyne_Clinic" = "عيادة النساء والولادة";
 "Pediatrics_Clinic" = "عيادة الاطفال";
+//Additional
 
+
+"Terms_Condition" = "Yes, I agree to terms and condition";
+"resigned_since" = "Resigned Since";
+"resigned_since_required" = "Resigned since required";
+"confirm_Iban_required" = "We need a Confirm IBAN";
+"Ops_Firstname" = "Oops! It seems that this is not a valid First Name.";
+"Mobile_required" = "We need a Mobile Number";
+"Password_required" = "We need a Password";
+"First_Name" = "First Name";
+"Rate_Service" = "Rate your service";
+"Rate_Queue" = "Rate your wait in queue";
+"chat_placeholder" = "When i can have next Visit?";
+"dependents" = "Dependent";
+"temperature" = "Temperature";
+"Today_Temp" = "Today's Temperature";
+"very_HotTemp" = "Very Hot (ER) \n >39°C";
+"normal_Temp" = "Normal \n 36.5 - 37.5 °C";
+"cold_Temp" = "Cold \n 36 - 36.5 °C";
+"normal_Temp" = "Very Cold (ER) \n <36 °C";
+"hot_Tempreture" = "Hot \n 37.5 - 39 °C";
+"meal" = "meal";
+"Kg" = "Kg";
+"Cm" = "Cm";
+"Language_Change" = "You have to restart the app , if you made the language change";
+"Preferred_Language" = "Please select your preferred language";
+"Warning" = "Warning";
+"Added_Msg_ForDoctor_Name" = "has been joined to queue for Dr.";
+
+
+//Change Request1
+
+"Technical_support_request" = "Technical Support Request";
+"Problem_Type" = "نوع المشكلة";
+"Problem_Title" = "عنوان المشكلة";
+"Problem_Decription" = "وصف المشكلة";
+"Problem_Type_required" = "نحتاج نوع المشكلة";
+"Problem_Title_required" = "نحتاج عنوان المشكلة";
+"Problem_Description_required" = "نحتاج وصف المشكلة";
+"Doctor_Profile" = "معلومات عن الطبيب";
+
+
+"Description" = "الوصف";
+"About_Me" = "معلومات عنَي";
+"Education" = "التعليم";
+"Location" = "Location";
+"Years_Of_Experience" = "سنوات الخبرة";
+"Edit" = "تعديل";
+"description_required" = "نحتاج الوصف";
+"Technical_issue" = "عطل فني";
+"Payments_issue" = "خطأ بالمدفوعات";
+"Other" = "أخرى";
+"Unversity_Name" = "إسم الجامعة";
+"University_required" = "نحتاج إسم الجامعة";
+"About_Text" = "نرجو ادخال معلومات مختصرة عنك";
+"About_required" = "ارجو ادخال معلومات عنك";
+"save_Message" = "هل ترغب بالحفظ";
+"save" = "حفظ";
+"download_Report" = "downloading report..";
