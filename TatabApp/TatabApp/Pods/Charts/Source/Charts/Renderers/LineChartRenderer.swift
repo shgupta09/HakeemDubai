@@ -368,6 +368,13 @@ open class LineChartRenderer: LineRadarRenderer
                 }
                 
                 // get the color that is set for this line-segment
+                if(j == 0){
+                    context.setStrokeColor(UIColor.clear.cgColor)
+
+                }else{
+                    context.setStrokeColor(dataSet.color(atIndex: j).cgColor)
+
+                }
                 context.setStrokeColor(dataSet.color(atIndex: j).cgColor)
                 context.strokeLineSegments(between: _lineSegments)
             }

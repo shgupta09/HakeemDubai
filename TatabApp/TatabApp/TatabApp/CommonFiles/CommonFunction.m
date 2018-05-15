@@ -83,7 +83,13 @@
     if (IsCross){
      dashboard = [[UIBarButtonItem alloc]initWithImage:[UIImage imageNamed:@"close"] style:UIBarButtonItemStylePlain target:viewController action:@selector(backTapped)];
     }else{
-   dashboard = [[UIBarButtonItem alloc]initWithImage:[UIImage imageNamed:@"back"] style:UIBarButtonItemStylePlain target:viewController action:@selector(backTapped)];
+        
+        if ([[CommonFunction getValueFromDefaultWithKey:Selected_Language] isEqualToString:Selected_Language_English]) {
+             dashboard = [[UIBarButtonItem alloc]initWithImage:[UIImage imageNamed:@"back"] style:UIBarButtonItemStylePlain target:viewController action:@selector(backTapped)];
+        }else{
+             dashboard = [[UIBarButtonItem alloc]initWithImage:[UIImage imageNamed:@"backRotate"] style:UIBarButtonItemStylePlain target:viewController action:@selector(backTapped)];
+        }
+  
     }
     
     dashboard.tintColor = [UIColor colorWithRed:233.0f/255.0f green:141.0f/255.0f blue:25.0f/255.0f alpha:1];
@@ -516,5 +522,6 @@
 +(void)setCornerRadius:(UIView *)view Radius:(CGFloat)radius{
     view.layer.cornerRadius = radius;
 }
+
 
 @end
