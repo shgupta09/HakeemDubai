@@ -100,7 +100,7 @@
                   moduleName = "TatabApp"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/TatabApp/ViewControllers/AwarenessN/NewAwareVC.m"
-                  timestampString = "548106899.389287"
+                  timestampString = "548190289.21213"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1373"
@@ -115,7 +115,7 @@
                   moduleName = "TatabApp"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/TatabApp/ViewControllers/AwarenessN/NewAwareVC.m"
-                  timestampString = "548106899.391674"
+                  timestampString = "548190289.214411"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1374"
@@ -130,7 +130,7 @@
                   moduleName = "TatabApp"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/TatabApp/ViewControllers/AwarenessN/NewAwareVC.m"
-                  timestampString = "548106899.393967"
+                  timestampString = "548190289.2166671"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1373"
@@ -259,7 +259,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Charts/Source/Charts/Renderers/YAxisRenderer.swift"
-            timestampString = "546892463.858945"
+            timestampString = "548190255.122142"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "22"
@@ -275,7 +275,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/YAxisRenderer.swift"
-                  timestampString = "548106899.438534"
+                  timestampString = "548190289.2514549"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -290,7 +290,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/YAxisRenderer.swift"
-                  timestampString = "548106899.440819"
+                  timestampString = "548190289.253844"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "24"
@@ -307,7 +307,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Charts/Source/Charts/Renderers/YAxisRenderer.swift"
-            timestampString = "546892463.859123"
+            timestampString = "548190255.122216"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "39"
@@ -323,7 +323,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Charts/Source/Charts/Renderers/YAxisRenderer.swift"
-            timestampString = "546892463.859199"
+            timestampString = "548190255.122277"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "145"
@@ -355,7 +355,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Jobs/ZoomViewJob.swift"
-                  timestampString = "548106899.456545"
+                  timestampString = "548190289.267025"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "22"
@@ -370,7 +370,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Jobs/ZoomViewJob.swift"
-                  timestampString = "548106899.4588439"
+                  timestampString = "548190289.269361"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "22"
@@ -403,7 +403,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/YAxisRendererRadarChart.swift"
-                  timestampString = "548106899.464497"
+                  timestampString = "548190289.274375"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
@@ -418,7 +418,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/YAxisRendererRadarChart.swift"
-                  timestampString = "548106899.4667391"
+                  timestampString = "548190289.276599"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
@@ -435,7 +435,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Charts/Source/Charts/Renderers/YAxisRendererHorizontalBarChart.swift"
-            timestampString = "546892463.859326"
+            timestampString = "548190255.122366"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "21"
@@ -451,7 +451,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/YAxisRendererHorizontalBarChart.swift"
-                  timestampString = "548106899.47255"
+                  timestampString = "548190289.357217"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -466,7 +466,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/YAxisRendererHorizontalBarChart.swift"
-                  timestampString = "548106899.474737"
+                  timestampString = "548190289.3596179"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "252"
@@ -531,7 +531,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/XAxisRendererRadarChart.swift"
-                  timestampString = "548106899.486289"
+                  timestampString = "548190289.370083"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
@@ -546,7 +546,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/XAxisRendererRadarChart.swift"
-                  timestampString = "548106899.488567"
+                  timestampString = "548190289.372329"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
@@ -579,7 +579,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/XAxisRendererHorizontalBarChart.swift"
-                  timestampString = "548106899.494467"
+                  timestampString = "548190289.37738"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
@@ -594,7 +594,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/XAxisRendererHorizontalBarChart.swift"
-                  timestampString = "548106899.49661"
+                  timestampString = "548190289.379699"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
@@ -627,7 +627,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/XAxisRenderer.swift"
-                  timestampString = "548106899.502353"
+                  timestampString = "548190289.384773"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -642,7 +642,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/XAxisRenderer.swift"
-                  timestampString = "548106899.5045249"
+                  timestampString = "548190289.387012"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "118"
@@ -691,7 +691,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Jobs/ViewPortJob.swift"
-                  timestampString = "548106899.511335"
+                  timestampString = "548190289.392881"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "19"
@@ -706,7 +706,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Jobs/ViewPortJob.swift"
-                  timestampString = "548106899.513513"
+                  timestampString = "548190289.39512"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "19"
@@ -723,7 +723,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Charts/Source/Charts/Utils/ViewPortHandler.swift"
-            timestampString = "546892463.8597029"
+            timestampString = "548190255.1228271"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "19"
@@ -739,7 +739,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Utils/ViewPortHandler.swift"
-                  timestampString = "548106899.5191979"
+                  timestampString = "548190289.400201"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "20"
@@ -754,7 +754,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Utils/ViewPortHandler.swift"
-                  timestampString = "548106899.52196"
+                  timestampString = "548190289.402537"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "20"
@@ -851,7 +851,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/ScatterChartRenderer.swift"
-                  timestampString = "548106899.54661"
+                  timestampString = "548190289.424318"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "22"
@@ -866,7 +866,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/ScatterChartRenderer.swift"
-                  timestampString = "548106899.548794"
+                  timestampString = "548190289.4267319"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "22"
@@ -931,7 +931,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/ScatterChartData.swift"
-                  timestampString = "548106899.556848"
+                  timestampString = "548190289.433165"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -946,7 +946,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/ScatterChartData.swift"
-                  timestampString = "548106899.55906"
+                  timestampString = "548190289.435474"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "19"
@@ -995,7 +995,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Highlight/Range.swift"
-                  timestampString = "548106899.5701261"
+                  timestampString = "548190289.444605"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "18"
@@ -1010,7 +1010,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Highlight/Range.swift"
-                  timestampString = "548106899.572353"
+                  timestampString = "548190289.447033"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "18"
@@ -1059,7 +1059,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Charts/RadarChartView.swift"
-                  timestampString = "548106899.5828331"
+                  timestampString = "548190289.456586"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
@@ -1074,7 +1074,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Charts/RadarChartView.swift"
-                  timestampString = "548106899.584991"
+                  timestampString = "548190289.458867"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
@@ -1107,7 +1107,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/RadarChartRenderer.swift"
-                  timestampString = "548106899.590867"
+                  timestampString = "548190289.464339"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -1122,7 +1122,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/RadarChartRenderer.swift"
-                  timestampString = "548106899.593061"
+                  timestampString = "548190289.4665641"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "20"
@@ -1171,7 +1171,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/RadarChartDataEntry.swift"
-                  timestampString = "548106899.603598"
+                  timestampString = "548190289.475983"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -1186,7 +1186,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/RadarChartDataEntry.swift"
-                  timestampString = "548106899.605986"
+                  timestampString = "548190289.478462"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "19"
@@ -1219,7 +1219,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/RadarChartData.swift"
-                  timestampString = "548106899.612345"
+                  timestampString = "548190289.483569"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "18"
@@ -1234,7 +1234,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/RadarChartData.swift"
-                  timestampString = "548106899.6151741"
+                  timestampString = "548190289.485847"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "18"
@@ -1331,7 +1331,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Components/MarkerView.swift"
-                  timestampString = "548106899.633683"
+                  timestampString = "548190289.501233"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "22"
@@ -1346,7 +1346,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Components/MarkerView.swift"
-                  timestampString = "548106899.635834"
+                  timestampString = "548190289.503829"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "22"
@@ -1361,7 +1361,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Components/MarkerView.swift"
-                  timestampString = "548106899.637966"
+                  timestampString = "548190289.506305"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "22"
@@ -1376,7 +1376,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Components/MarkerView.swift"
-                  timestampString = "548106899.6403331"
+                  timestampString = "548190289.508594"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "22"
@@ -1409,7 +1409,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Components/MarkerImage.swift"
-                  timestampString = "548106899.650093"
+                  timestampString = "548190289.516969"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "23"
@@ -1424,7 +1424,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Components/MarkerImage.swift"
-                  timestampString = "548106899.652248"
+                  timestampString = "548190289.5197001"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "23"
@@ -1457,7 +1457,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/LineScatterCandleRadarRenderer.swift"
-                  timestampString = "548106899.65843"
+                  timestampString = "548190289.52466"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -1472,7 +1472,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Renderers/LineScatterCandleRadarRenderer.swift"
-                  timestampString = "548106899.660588"
+                  timestampString = "548190289.527341"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "20"
@@ -1495,22 +1495,6 @@
             startingLineNumber = "19"
             endingLineNumber = "19"
             landmarkName = "init(animator:viewPortHandler:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Pods/Charts/Source/Charts/Charts/LineChartView.swift"
-            timestampString = "546888743.363448"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "19"
-            endingLineNumber = "19"
-            landmarkName = "initialize()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1569,7 +1553,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/LineChartData.swift"
-                  timestampString = "548106899.67743"
+                  timestampString = "548190289.591704"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -1584,7 +1568,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/LineChartData.swift"
-                  timestampString = "548106899.679584"
+                  timestampString = "548190289.594738"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "19"
@@ -1617,7 +1601,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Components/LegendEntry.swift"
-                  timestampString = "548106899.685335"
+                  timestampString = "548190289.601716"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -1632,7 +1616,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Components/LegendEntry.swift"
-                  timestampString = "548106899.687615"
+                  timestampString = "548190289.603977"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "54"
@@ -1761,7 +1745,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Formatters/IndexAxisValueFormatter.swift"
-                  timestampString = "548106899.699473"
+                  timestampString = "548190289.6167901"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "18"
@@ -1776,7 +1760,7 @@
                   moduleName = "Charts"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/Pods/Charts/Source/Charts/Formatters/IndexAxisValueFormatter.swift"
-                  timestampString = "548106899.7016391"
+                  timestampString = "548190289.619064"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "18"
@@ -1873,7 +1857,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Charts/Source/Charts/Utils/ViewPortHandler.swift"
-            timestampString = "546892463.860862"
+            timestampString = "548190255.123503"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "93"
@@ -1933,11 +1917,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Charts/Source/Charts/Utils/ViewPortHandler.swift"
-            timestampString = "546892463.861089"
+            timestampString = "548190255.123785"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "134"
@@ -1949,11 +1933,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Charts/Source/Charts/Utils/ViewPortHandler.swift"
-            timestampString = "546892463.8612"
+            timestampString = "548190255.123971"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "122"
@@ -1965,11 +1949,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Charts/Source/Charts/Utils/ViewPortHandler.swift"
-            timestampString = "546892463.8612961"
+            timestampString = "548190255.124094"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "126"
@@ -1981,11 +1965,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Charts/Source/Charts/Utils/ViewPortHandler.swift"
-            timestampString = "546892463.861361"
+            timestampString = "548190255.1241651"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "130"
@@ -2129,7 +2113,7 @@
                   moduleName = "TatabApp"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/TatabApp/ViewControllers/LoginViewController/LoginViewController.m"
-                  timestampString = "548106899.822787"
+                  timestampString = "548190289.689158"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "191"
@@ -2144,7 +2128,7 @@
                   moduleName = "TatabApp"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/TatabApp/ViewControllers/LoginViewController/LoginViewController.m"
-                  timestampString = "548106899.825755"
+                  timestampString = "548190289.69139"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "191"
@@ -2159,7 +2143,7 @@
                   moduleName = "TatabApp"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shubhamgupta/Projects/GIT/HakeemDubai/TatabApp/TatabApp/TatabApp/ViewControllers/LoginViewController/LoginViewController.m"
-                  timestampString = "548106899.828462"
+                  timestampString = "548190289.693627"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "191"
@@ -2448,11 +2432,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TatabApp/ViewControllers/HealthTrackerContainer/WeightReportViewController/WeightReportViewController.m"
-            timestampString = "548101110.123356"
+            timestampString = "548190255.124586"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "425"
-            endingLineNumber = "425"
+            startingLineNumber = "427"
+            endingLineNumber = "427"
             landmarkName = "-generateReport"
             landmarkType = "7">
          </BreakpointContent>
@@ -2464,11 +2448,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TatabApp/ViewControllers/HealthTrackerContainer/WeightReportViewController/WeightReportViewController.m"
-            timestampString = "548101110.123456"
+            timestampString = "548190255.124648"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "418"
-            endingLineNumber = "418"
+            startingLineNumber = "420"
+            endingLineNumber = "420"
             landmarkName = "-generateReport"
             landmarkType = "7">
          </BreakpointContent>
@@ -2480,27 +2464,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TatabApp/ViewControllers/HealthTrackerContainer/WeightReportViewController/WeightReportViewController.m"
-            timestampString = "548101110.1235189"
+            timestampString = "548190255.124705"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "396"
-            endingLineNumber = "396"
-            landmarkName = "-downloadPdf:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "TatabApp/ViewControllers/HealthTrackerContainer/WeightReportViewController/WeightReportViewController.m"
-            timestampString = "548101110.123615"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "799"
-            endingLineNumber = "799"
+            startingLineNumber = "801"
+            endingLineNumber = "801"
             landmarkName = "-btnActionForCustomAlert:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2512,59 +2480,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TatabApp/ViewControllers/HealthTrackerContainer/WeightReportViewController/WeightReportViewController.m"
-            timestampString = "548101110.123667"
+            timestampString = "548190255.124759"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "394"
-            endingLineNumber = "394"
-            landmarkName = "-downloadPdf:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "TatabApp/ViewControllers/HealthTrackerContainer/WeightReportViewController/WeightReportViewController.m"
-            timestampString = "548101110.123716"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "395"
-            endingLineNumber = "395"
-            landmarkName = "-downloadPdf:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "TatabApp/ViewControllers/HealthTrackerContainer/WeightReportViewController/WeightReportViewController.m"
-            timestampString = "548101110.123763"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "407"
-            endingLineNumber = "407"
-            landmarkName = "-generateReport"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "TatabApp/ViewControllers/HealthTrackerContainer/WeightReportViewController/WeightReportViewController.m"
-            timestampString = "548101110.123809"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "179"
-            endingLineNumber = "179"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
             landmarkName = "WeightReportViewController"
             landmarkType = "3">
          </BreakpointContent>
@@ -2598,6 +2518,390 @@
             startingLineNumber = "350"
             endingLineNumber = "350"
             landmarkName = "-revealAction:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TatabApp/ViewControllers/HealthTrackerContainer/WeightReportViewController/WeightReportViewController.m"
+            timestampString = "548190255.1248471"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "839"
+            endingLineNumber = "839"
+            landmarkName = "-updateChartData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TatabApp/ViewControllers/HealthTrackerContainer/WeightReportViewController/WeightReportViewController.m"
+            timestampString = "548190255.124905"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "858"
+            endingLineNumber = "858"
+            landmarkName = "-updateChartData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TatabApp/ViewControllers/HealthTrackerContainer/WeightReportViewController/WeightReportViewController.m"
+            timestampString = "548190255.124959"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "569"
+            endingLineNumber = "569"
+            landmarkName = "-getWeight"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+            timestampString = "548190255.125016"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "drawCubicBezier(context:dataSet:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+            timestampString = "548190255.125075"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "537"
+            endingLineNumber = "537"
+            landmarkName = "drawValues(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+            timestampString = "548190255.125129"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "drawData(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+            timestampString = "548190255.125182"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "drawDataSet(context:dataSet:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+            timestampString = "548190255.125248"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "drawCubicBezier(context:dataSet:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+            timestampString = "548190255.125309"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "drawHorizontalBezier(context:dataSet:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+            timestampString = "548190255.125362"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "256"
+            endingLineNumber = "256"
+            landmarkName = "drawCubicFill(context:dataSet:spline:matrix:bounds:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+            timestampString = "548190255.1254129"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "294"
+            endingLineNumber = "294"
+            landmarkName = "drawLinear(context:dataSet:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+            timestampString = "548190255.125464"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "465"
+            endingLineNumber = "465"
+            landmarkName = "generateFilledPath(dataSet:fillMin:bounds:matrix:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+            timestampString = "548190255.125517"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "510"
+            endingLineNumber = "510"
+            landmarkName = "drawValues(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+            timestampString = "548190255.125567"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "602"
+            endingLineNumber = "602"
+            landmarkName = "drawCircles(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+            timestampString = "548190255.125617"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "569"
+            endingLineNumber = "569"
+            landmarkName = "drawValues(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+            timestampString = "548190255.125668"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "615"
+            endingLineNumber = "615"
+            landmarkName = "drawCircles(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/YAxisRenderer.swift"
+            timestampString = "548190255.125721"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "379"
+            endingLineNumber = "379"
+            landmarkName = "renderLimitLines(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/YAxisRenderer.swift"
+            timestampString = "548190255.125775"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "337"
+            endingLineNumber = "337"
+            landmarkName = "renderLimitLines(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/BarLineScatterCandleBubbleRenderer.swift"
+            timestampString = "548190255.125829"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "set(chart:dataSet:animator:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/YAxisRenderer.swift"
+            timestampString = "548190255.125877"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "drawYLabels(context:fixedPosition:positions:offset:textAlign:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Components/AxisBase.swift"
+            timestampString = "548189903.409952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "valueFormatter"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/YAxisRendererHorizontalBarChart.swift"
+            timestampString = "548190274.908161"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "computeAxis(min:max:inverted:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Charts/BarLineChartViewBase.swift"
+            timestampString = "548190377.386176"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "462"
+            endingLineNumber = "462"
+            landmarkName = "calculateOffsets()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+            timestampString = "548190465.080792"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "drawDataSet(context:dataSet:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

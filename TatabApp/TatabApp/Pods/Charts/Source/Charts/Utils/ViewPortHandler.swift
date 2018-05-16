@@ -143,11 +143,11 @@ open class ViewPortHandler: NSObject
                 
                 print("iPhone 7+/8+")
                 
-                return -20
+                return -10
                 
             case 2436:
                 
-                return -20
+                return -15
                 
             default:
                 
