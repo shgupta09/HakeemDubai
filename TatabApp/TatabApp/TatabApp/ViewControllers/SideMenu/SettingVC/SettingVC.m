@@ -63,9 +63,9 @@
 }
 - (IBAction)btn_Language:(id)sender {
     
-    [self addAlertWithTitle:[Langauge getTextFromTheKey:Warning_Key] andMessage:[Langauge getTextFromTheKey:@"Language_Change"] isTwoButtonNeeded:true firstbuttonTag:105 secondButtonTag:Tag_For_Remove_Alert firstbuttonTitle:[Langauge getTextFromTheKey:OK_Btn] secondButtonTitle:[Langauge getTextFromTheKey:Cancel_Btn] image:Warning_Key_For_Image];
-    
-    
+//    [self addAlertWithTitle:[Langauge getTextFromTheKey:Warning_Key] andMessage:[Langauge getTextFromTheKey:@"Language_Change"] isTwoButtonNeeded:true firstbuttonTag:105 secondButtonTag:Tag_For_Remove_Alert firstbuttonTitle:[Langauge getTextFromTheKey:OK_Btn] secondButtonTitle:[Langauge getTextFromTheKey:Cancel_Btn] image:Warning_Key_For_Image];
+//
+     [self showLanguageOption];
     
 }
 
@@ -87,14 +87,14 @@
                                                         handler:^(UIAlertAction * _Nonnull action) {
                                                             [CommonFunction storeValueInDefault:Selected_Language_English andKey:Selected_Language];
                                                             [self viewWillAppear:true];
-                                                            [self killManually];
+                                                            [self ChangeUI];
 
                                                         }];
     UIAlertAction* arabicAction = [UIAlertAction actionWithTitle:@"Arabic" style:UIAlertActionStyleDefault
                                                         handler:^(UIAlertAction * _Nonnull action) {
                                                               [CommonFunction storeValueInDefault:Selected_Language_Arebic andKey:Selected_Language];
                                                             [self viewWillAppear:true];
-                                                            [self killManually];
+                                                            [self ChangeUI];
                                                         }];
     UIAlertAction* Cancel = [UIAlertAction actionWithTitle:@"Cancel" style:UIAlertActionStyleDefault
                                                    handler:^(UIAlertAction * _Nonnull action) {
@@ -116,22 +116,8 @@
     
 }
 
--(void)killManually{
-    
-    
+-(void)ChangeUI{
     [[AppDelegate getDelegate] switchLanguage];
-    
-//    SplashScreenViewController *sp = [[SplashScreenViewController alloc]initWithNibName:@"SplashScreenViewController" bundle:nil];
-//     [AppDelegate getDelegate].window.rootViewController = sp;
-    //home button press programmatically
-    
-//    UIApplication *app = [UIApplication sharedApplication];
-//    [app performSelector:@selector(suspend)];
-//    //wait 2 seconds while app is going background
-//    [NSThread sleepForTimeInterval:2.0];
-//    //exit app when app is in background
-//    NSLog(@"exit(0)");
-//    exit(0);
 }
 
 - (UIModalPresentationStyle)adaptivePresentationStyleForPresentationController:(UIPresentationController *)controller

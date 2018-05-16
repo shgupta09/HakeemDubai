@@ -425,6 +425,10 @@ fetchCompletionHandler:(void (^)(UIBackgroundFetchResult))completionHandler {
 
 - (void)initRootViewController {
     _window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    if ([[[NSUserDefaults standardUserDefaults] valueForKey:Selected_Language] isEqualToString:Selected_Language_Arebic])
+        [[UIView appearance] setSemanticContentAttribute:UISemanticContentAttributeForceRightToLeft];
+    else
+        [[UIView appearance] setSemanticContentAttribute:UISemanticContentAttributeForceLeftToRight];
     SplashScreenViewController* vc;
     vc = [[SplashScreenViewController alloc] initWithNibName:@"SplashScreenViewController" bundle:nil];
     _window.rootViewController = vc;
