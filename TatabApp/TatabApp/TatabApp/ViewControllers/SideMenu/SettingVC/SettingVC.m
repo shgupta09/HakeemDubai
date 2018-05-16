@@ -33,7 +33,7 @@
 }
 
 -(void)setTitleForButton{
-    
+
     if ([[CommonFunction getValueFromDefaultWithKey:Selected_Language] isEqualToString:Selected_Language_English]) {
         [_btn_Language setTitle:@"English" forState:UIControlStateNormal];
       

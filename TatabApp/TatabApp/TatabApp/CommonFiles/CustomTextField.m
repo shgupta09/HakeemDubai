@@ -33,7 +33,10 @@
         }else{
             self.textAlignment = NSTextAlignmentRight;
         }
-        
+        if ([[[NSUserDefaults standardUserDefaults] valueForKey:Selected_Language] isEqualToString:Selected_Language_Arebic])
+            [self setSemanticContentAttribute:UISemanticContentAttributeForceRightToLeft];
+        else
+            [self setSemanticContentAttribute:UISemanticContentAttributeForceLeftToRight];
     }
     return self;
 }

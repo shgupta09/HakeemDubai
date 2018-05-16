@@ -28,7 +28,7 @@
 "setting" = "الاعدادات";
 "dependent" = "التابعين";
 "queue" = "الانتظار";
-"emr_and_tracker" = "ملفي-- ";
+"emr_and_tracker" = "ملفي";
 "notification" = "التنبيهات";
 "tatab_app" = "تطبب";
 "register" = "التسجيل";
@@ -107,7 +107,7 @@
 "network_error" = "يوجد مشكلة في شبكة الاتصال ... حاول مرة اخرى";
 "please_connect_to_the_internet" = "فضلا اتصل بالشبكة أولا";
 "health_tracker" = "متابعة الحالة الصحية";
-"emr_tracker" = "ملفي--";
+"emr_tracker" = "ملفي";
 "Consultation" = "استشارة";
 "emr" = "ملفي-- ";
 "birthdate" = "تاريخ الميلاد";

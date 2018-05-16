@@ -40,6 +40,14 @@
     _txt_Mobile.leftImgView.image = [UIImage imageNamed:@"Mobile"];
     _txt_Description.tintColor = [UIColor whiteColor];
     _txt_Description.textContainerInset = UIEdgeInsetsMake(5, 50, 5, 50);
+    if ([[[NSUserDefaults standardUserDefaults] valueForKey:Selected_Language] isEqualToString:Selected_Language_Arebic]){
+        [_txt_Description setSemanticContentAttribute:UISemanticContentAttributeForceRightToLeft];
+        _txt_Description.textAlignment = NSTextAlignmentRight;
+    }
+    else{
+        [_txt_Description setSemanticContentAttribute:UISemanticContentAttributeForceLeftToRight];
+        _txt_Description.textAlignment = NSTextAlignmentLeft;
+    }
 //    [CommonFunction setViewBackground:self.scrlView withImage:[UIImage imageNamed:@"BackgroundGeneral"]];
     [CommonFunction setResignTapGestureToView:self.view andsender:self];
     [self setLanguageData];
